@@ -15,6 +15,7 @@
     "next": "10.x",
     "next-absolute-url": "^1.2.2",
     "nextjs-redirect": "^5.0.2",
+    "nprogress": "^0.2.0",
     "puppeteer-extra": "^3.1.18",
     "puppeteer-extra-plugin-adblocker": "^2.11.11",
     "puppeteer-extra-plugin-stealth": "^2.7.8",
